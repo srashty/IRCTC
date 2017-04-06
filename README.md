@@ -4,8 +4,8 @@
 <tr>
 <th colspan="3"><marquee direction="right">IRCTC</marquee></th>
 </tr><tr>
-<th>DETAIL</th>
-<th>REQUIREMENT</th>
+<th>Tags</th>
+<th>DETAILS</th>
 <th>SUGGESTION</th>
 </tr>
 <tr>
@@ -25,8 +25,8 @@
 </tr>
 <tr>
 <th>headings</th>
-<td>h1,h2</td>
-<td>this webpage does not contains h1,h2</td>
+<td>This we page does not have h1,h2</td>
+<td> webpage must contain h1,h2</td>
 </tr>
 <tr>
 <th>Img alt</th>
