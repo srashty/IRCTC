@@ -1,4 +1,4 @@
- # IRCTC
+< # IRCTC
 <html>
 <img src="http://www.userlogos.org/files/logos/spaljeni/irctc.png">
 <table >
@@ -7,12 +7,14 @@
 </tr><tr>
 <th>Tags</th>
 <th>Status</th>
+<th>status code</th>
 <th>DETAILS</th>
 <th>SUGGESTION</th>
 </tr>
 <tr>
-<th background-color: "#00FFFF">page tittle</th>
+<th>page tittle</th>
 <td>found</td>
+<td>200</td>
 <td>this webpage contains 39 characters,each page should have unique title with 65characters</td>
 <td>Indian Railway Catering and Tourism Corporation for rail ticket booking.</td>
 </tr>
@@ -23,18 +25,21 @@
 <tr>
 <th>favicon test</th>
 <td>not found</td>
+<td>404</td>
 <td>this page does not contain any favicon</td>
 <td>every webpage must have favicon</td>
 </tr>
 <tr>
 <th>deprecated HTML tags</th>
 <td>found</td>
+<td>200</td>
 <td>this webpage contains many deprecated HTML tags</td>
 <td>your webpage must not contain any deprecated tag</td>
 </tr>
 <tr>
 <th>no index tag</th>
 <td>not found</td>
+
 <td colspan="2">your webpage doesnot contain noindex tag</td>
 <tr>
 <th>Meta description</th>
