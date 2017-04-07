@@ -17,6 +17,26 @@
 <td>Indian Railway Catering and Tourism Corporation for rail ticket booking.</td>
 </tr>
 <tr>
+<th>inline css test</th>
+<td colspan="3">your webpage is using 244 inline css styles</td>
+</tr>
+<tr>
+<th>favicon test</th>
+<td>not found</td>
+<td>this page does not contain any favicon</td>
+<td>every webpage must have favicon</td>
+</tr>
+<tr>
+<th>deprecated HTML tags</th>
+<td>found</td>
+<td>this webpage contains many deprecated HTML tags</td>
+<td>your webpage must not contain any deprecated tag</td>
+</tr>
+<tr>
+<th>no index tag</th>
+<td>not found</td>
+<td colspan="2">your webpage doesnot contain noindex tag</td>
+<tr>
 <th>Meta description</th>
 <td>not found</td>
 <td>this webpage does not contain meta description</td>
