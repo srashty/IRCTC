@@ -1,11 +1,14 @@
  # IRCTC
 <html>
 <img src="http://www.userlogos.org/files/logos/spaljeni/irctc.png">
+<style>
+{background-color: #ooffff;}
+</style>
 <table >
 <tr>
 <th colspan="4"><marquee direction="right">IRCTC</marquee></th>
 </tr><tr>
-<th>Tags</th>
+<th>Title</th>
 <th>Status</th>
 <th>status code</th>
 <th>DETAILS</th>
