@@ -1,13 +1,6 @@
  # IRCTC
 <html>
 <img src="http://www.userlogos.org/files/logos/spaljeni/irctc.png">
-<style>
-table, th, td {
-border-bottom: 1px solid #odd;
-}
-tr {background-color: #ooffff;}
-th {background-color: #008000; color:white font size:20;}
-</style>
 <table >
 <tr>
 <th colspan="4"><marquee direction="right">IRCTC</marquee></th>
