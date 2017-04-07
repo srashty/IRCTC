@@ -10,7 +10,7 @@
 <th>DETAILS</th>
 <th>SUGGESTION</th>
 </tr>
-<tr color="00ffff">
+<tr>
 <th>page tittle</th>
 <td>found</td>
 <td>this webpage contains 39 characters,each page should have unique title with 65characters</td>
