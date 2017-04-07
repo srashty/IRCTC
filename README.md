@@ -93,8 +93,8 @@
 <td colspan="3">rickson@yahoo.com</td>
 </tr>
 <tr>
-<th>>Grade</th>
-<td><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></td>
+<th>Grade</th>
+<td><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker" height=50 width=50></td>
 </tr>
 </table>
 </html>
