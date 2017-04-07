@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <th>headings</th>
-<td>This we page does not have h1,h2</td>
+<td>This webpage does not have h1,h2</td>
 <td> webpage must contain h1,h2</td>
 </tr>
 <tr>
