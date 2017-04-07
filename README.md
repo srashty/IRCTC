@@ -6,11 +6,11 @@
 <th colspan="4"><marquee direction="right">IRCTC</marquee></th>
 </tr><tr>
 <th>Tags</th>
-<th>Status></th>
+<th>Status</th>
 <th>DETAILS</th>
 <th>SUGGESTION</th>
 </tr>
-<tr>
+<tr bgcolor="blue">
 <th>page tittle</th>
 <td>found</td>
 <td>this webpage contains 39 characters,each page should have unique title with 65characters</td>
