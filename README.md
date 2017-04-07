@@ -1,4 +1,4 @@
-# IRCTC
+ # IRCTC
 <html>
 <img src="http://www.userlogos.org/files/logos/spaljeni/irctc.png">
 <table >
@@ -11,7 +11,7 @@
 <th>SUGGESTION</th>
 </tr>
 <tr>
-<th>page tittle</th>
+<th background-color: "#00FFFF">page tittle</th>
 <td>found</td>
 <td>this webpage contains 39 characters,each page should have unique title with 65characters</td>
 <td>Indian Railway Catering and Tourism Corporation for rail ticket booking.</td>
