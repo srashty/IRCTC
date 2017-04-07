@@ -126,4 +126,5 @@
 <td><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker" height=250 width=350></td>
 </tr>
 </table>
+<p>To view the website click -----> <a href="http://www.irctc.co.in">IRCTC</a>
 </html>
