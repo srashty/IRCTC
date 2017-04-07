@@ -20,7 +20,7 @@
 </tr>
 <tr>
 <th>inline css test</th>
-<td colspan="3">your webpage is using 244 inline css styles</td>
+<td colspan="4">your webpage is using 244 inline css styles</td>
 </tr>
 <tr>
 <th>favicon test</th>
@@ -40,7 +40,7 @@
 <th>no index tag</th>
 <td>not found</td>
 <td>404</td>
-<td colspan="2">your webpage doesnot contain noindex tag</td>
+<td colspan="2">your webpage doesnot contain noindex tag. This means your webpage will be read and indexed by search engines.</td>
 <tr>
 <th>Meta description</th>
 <td>not found</td>
@@ -105,7 +105,7 @@
 </tr>
 <tr>
 <th>pagerank</th>
-<td colspan="4">pageranl of this site is 7</td>
+<td colspan="4">pagerank of this site is 7</td>
 </tr>
 <tr>
 <th>backlinks</th>
