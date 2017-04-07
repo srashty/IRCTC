@@ -99,8 +99,8 @@
 </tr>
 <tr>
 <th>html page size</th>
-<td>-</td>
-<td>17.1 kb</td>
+<td>--</td>
+<td>html page  size of this page is 17.1 kb</td>
 <td>this is less than averagethat leads to faster loading</td>
 </tr>
 <tr>
