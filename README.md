@@ -93,6 +93,15 @@
 <td>this is less than averagethat leads to faster loading</td>
 </tr>
 <tr>
+<th>pagerank</th>
+<td colspan="3">pageranl of this site is 7</td>
+</tr>
+<tr>
+<th>backlinks</th>
+<td>this page contains approaximately 100 backlinks</td>
+<td colspan="2">like-"http://www.cleartrip.com/trains"
+"http://www.travelindiasmart.com/train-tickets.php"</td>
+<tr>
 <th>created on</th>
 <td colspan="3">20april,2005</td>
 </tr>
