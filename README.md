@@ -2,7 +2,11 @@
 <html>
 <img src="http://www.userlogos.org/files/logos/spaljeni/irctc.png">
 <style>
-{background-color: #ooffff;}
+table, th, td {
+border-bottom: 1px solid #odd;
+}
+tr {background-color: #ooffff;}
+th {background-color: #008000; color:white font size:20;}
 </style>
 <table >
 <tr>
