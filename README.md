@@ -3,8 +3,9 @@
 <img src="http://www.userlogos.org/files/logos/spaljeni/irctc.png">
 <table >
 <tr>
-<th colspan="4"><marquee direction="right">IRCTC</marquee></th>
-</tr><tr>
+<th colspan="5"><marquee direction="right">IRCTC</marquee></th>
+</tr>
+<tr>
 <th>Title</th>
 <th>Status</th>
 <th>status code</th>
